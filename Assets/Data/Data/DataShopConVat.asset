@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d980ccceeffc64d4999fec3ae0917b13, type: 3}
+  m_Name: DataShopConVat
+  m_EditorClassIdentifier: 
+  data:
+  - name: "Chu\u1ED3ng g\xE0"
+    Gia: 14
+    sl: 0
+    GioiHan: 1
+    Capmo: 1
+  - name: "Con g\xE0"
+    Gia: 50
+    sl: 0
+    GioiHan: 3
+    Capmo: 1
+  - name: "Chu\u1ED3ng b\xF2"
+    Gia: 300
+    sl: 0
+    GioiHan: 1
+    Capmo: 5
+  - name: "Con b\xF2"
+    Gia: 100
+    sl: 0
+    GioiHan: 3
+    Capmo: 5
+  - name: "Chu\u1ED3ng l\u1EE3n"
+    Gia: 200
+    sl: 0
+    GioiHan: 1
+    Capmo: 7
+  - name: "Con l\u1EE3n"
+    Gia: 500
+    sl: 0
+    GioiHan: 3
+    Capmo: 7
+  - name: "Chu\u1ED3ng c\u1EEBu"
+    Gia: 400
+    sl: 0
+    GioiHan: 1
+    Capmo: 10
+  - name: "Con c\u1EEBu"
+    Gia: 700
+    sl: 0
+    GioiHan: 3
+    Capmo: 10
+  - name: "Chu\u1ED3ng d\xEA"
+    Gia: 450
+    sl: 0
+    GioiHan: 1
+    Capmo: 15
+  - name: "Con d\xEA"
+    Gia: 340
+    sl: 0
+    GioiHan: 3
+    Capmo: 15
+  - name: "Chu\u1ED3ng ng\u1EF1a"
+    Gia: 123
+    sl: 0
+    GioiHan: 1
+    Capmo: 7
+  - name: "Con ng\u1EF1a"
+    Gia: 456
+    sl: 0
+    GioiHan: 3
+    Capmo: 7

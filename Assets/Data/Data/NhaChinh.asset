@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4874388a9160e59478adcc69c36971be, type: 3}
+  m_Name: NhaChinh
+  m_EditorClassIdentifier: 
+  data:
+  - name_lv: 1
+    Cap: 1
+    KinhNghiem: 0
+    GioiHanKinhNghiem: 10
+  - name_lv: 2
+    Cap: 2
+    KinhNghiem: 0
+    GioiHanKinhNghiem: 20
+  - name_lv: 3
+    Cap: 3
+    KinhNghiem: 0
+    GioiHanKinhNghiem: 50
+  - name_lv: 4
+    Cap: 4
+    KinhNghiem: 0
+    GioiHanKinhNghiem: 80
+  - name_lv: 5
+    Cap: 5
+    KinhNghiem: 9
+    GioiHanKinhNghiem: 120
+  - name_lv: 6
+    Cap: 6
+    KinhNghiem: 0
+    GioiHanKinhNghiem: 200
+  - name_lv: 7
+    Cap: 7
+    KinhNghiem: 0
+    GioiHanKinhNghiem: 270
+  - name_lv: 8
+    Cap: 8
+    KinhNghiem: 0
+    GioiHanKinhNghiem: 340
+  - name_lv: 9
+    Cap: 9
+    KinhNghiem: 0
+    GioiHanKinhNghiem: 400
+  - name_lv: 10
+    Cap: 10
+    KinhNghiem: 0
+    GioiHanKinhNghiem: 480
+  - name_lv: 11
+    Cap: 11
+    KinhNghiem: 0
+    GioiHanKinhNghiem: 550
+  - name_lv: 12
+    Cap: 12
+    KinhNghiem: 0
+    GioiHanKinhNghiem: 620
+  - name_lv: 13
+    Cap: 13
+    KinhNghiem: 0
+    GioiHanKinhNghiem: 700
+  - name_lv: 14
+    Cap: 14
+    KinhNghiem: 0
+    GioiHanKinhNghiem: 780
+  - name_lv: 15
+    Cap: 15
+    KinhNghiem: 0
+    GioiHanKinhNghiem: 860
+  - name_lv: 16
+    Cap: 16
+    KinhNghiem: 0
+    GioiHanKinhNghiem: 950
+  - name_lv: 17
+    Cap: 17
+    KinhNghiem: 0
+    GioiHanKinhNghiem: 1100
+  - name_lv: 18
+    Cap: 18
+    KinhNghiem: 0
+    GioiHanKinhNghiem: 1230
+  - name_lv: 19
+    Cap: 19
+    KinhNghiem: 0
+    GioiHanKinhNghiem: 1320
+  - name_lv: 20
+    Cap: 20
+    KinhNghiem: 0
+    GioiHanKinhNghiem: 1400
+  - name_lv: 21
+    Cap: 21
+    KinhNghiem: 0
+    GioiHanKinhNghiem: 1450
+  - name_lv: 22
+    Cap: 22
+    KinhNghiem: 0
+    GioiHanKinhNghiem: 1500
+  - name_lv: 23
+    Cap: 23
+    KinhNghiem: 0
+    GioiHanKinhNghiem: 1550
+  - name_lv: 24
+    Cap: 10
+    KinhNghiem: 0
+    GioiHanKinhNghiem: 1600
+  - name_lv: 25
+    Cap: 25
+    KinhNghiem: 0
+    GioiHanKinhNghiem: 1650
+  - name_lv: 26
+    Cap: 26
+    KinhNghiem: 0
+    GioiHanKinhNghiem: 1750
+  - name_lv: 27
+    Cap: 27
+    KinhNghiem: 0
+    GioiHanKinhNghiem: 1800
+  - name_lv: 28
+    Cap: 28
+    KinhNghiem: 0
+    GioiHanKinhNghiem: 1850
+  - name_lv: 29
+    Cap: 29
+    KinhNghiem: 0
+    GioiHanKinhNghiem: 1900
+  - name_lv: 30
+    Cap: 30
+    KinhNghiem: 0
+    GioiHanKinhNghiem: 2000

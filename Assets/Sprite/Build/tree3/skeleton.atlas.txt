@@ -1,0 +1,27 @@
+
+skeleton.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tree_canopy
+  rotate: false
+  xy: 2, 2
+  size: 151, 101
+  orig: 151, 101
+  offset: 0, 0
+  index: -1
+trunk1
+  rotate: false
+  xy: 155, 17
+  size: 79, 86
+  orig: 79, 86
+  offset: 0, 0
+  index: -1
+trunk2
+  rotate: false
+  xy: 236, 31
+  size: 76, 72
+  orig: 76, 72
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,405 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 934bd21f0a2ca774ba84e5f329fccc12, type: 3}
+  m_Name: NongSan
+  m_EditorClassIdentifier: 
+  data:
+  - nameVNI: "B\xED ng\xF4"
+    nameENG: du
+    nguongoc: "Thu ho\u1EA1ch t\u1EEB c\xE1nh \u0111\u1ED3ng"
+    ID: 0
+    time1: 200
+    time2: 150
+    capmo: 10
+    giamua: 3
+    giaban: 5
+    exp: 3
+    sanluong: 3
+    gd1: {fileID: 21300000, guid: 9739abc1aa603fb429c5433f8134cd69, type: 3}
+    gd2: {fileID: 21300000, guid: 5b3d419942ee0d342a20853f7b01c9c2, type: 3}
+    gd3: {fileID: 21300000, guid: a0b68a382832be0448b7b21be8297cd2, type: 3}
+    iconsanpham: {fileID: 21300000, guid: e1bbdb294bbd7ee4f831f61e751085c9, type: 3}
+  - nameVNI: "B\u1ECFng"
+    nameENG: 
+    nguongoc: "Thu ho\u1EA1ch t\u1EEB c\xE1nh \u0111\u1ED3ng"
+    ID: 1
+    time1: 240
+    time2: 50
+    capmo: 10
+    giamua: 5
+    giaban: 6
+    exp: 4
+    sanluong: 3
+    gd1: {fileID: 21300000, guid: ff170c25ea8bf5c4eb681f75e25a4ba3, type: 3}
+    gd2: {fileID: 21300000, guid: 1736ab0fe551e94488704c112dd8149f, type: 3}
+    gd3: {fileID: 21300000, guid: a708e8fdb57dc674dbe303f38f7f5af0, type: 3}
+    iconsanpham: {fileID: 21300000, guid: d6f435c7cd44d7c4b9c01db89aabbf9e, type: 3}
+  - nameVNI: "C\xE0 chua"
+    nameENG: 
+    nguongoc: "Thu ho\u1EA1ch t\u1EEB c\xE1nh \u0111\u1ED3ng"
+    ID: 2
+    time1: 100
+    time2: 150
+    capmo: 10
+    giamua: 20
+    giaban: 30
+    exp: 4
+    sanluong: 3
+    gd1: {fileID: 21300000, guid: 54dd414e4e17afc4b835fac2aded72e5, type: 3}
+    gd2: {fileID: 21300000, guid: f5e8fb66cd0af564b8d1fbbdd18126fd, type: 3}
+    gd3: {fileID: 21300000, guid: d5d2179660d54b040ad1bbceb85b94cf, type: 3}
+    iconsanpham: {fileID: 21300000, guid: 33006b56542c2204cbdc8d07d6d27a8b, type: 3}
+  - nameVNI: cafe
+    nameENG: 
+    nguongoc: "Thu ho\u1EA1ch t\u1EEB c\xE1nh \u0111\u1ED3ng"
+    ID: 3
+    time1: 40
+    time2: 20
+    capmo: 3
+    giamua: 24
+    giaban: 30
+    exp: 4
+    sanluong: 3
+    gd1: {fileID: 21300000, guid: 0b3790a584b864a49bf31a19952c1f6b, type: 3}
+    gd2: {fileID: 21300000, guid: e8a28ad730721a34fafed71179743d03, type: 3}
+    gd3: {fileID: 21300000, guid: b3a46d8b458944940b92373595f5c234, type: 3}
+    iconsanpham: {fileID: 21300000, guid: a0d48097aa9f15a45a545216a082065d, type: 3}
+  - nameVNI: "C\xE0 r\u1ED1t"
+    nameENG: 
+    nguongoc: "Thu ho\u1EA1ch t\u1EEB c\xE1nh \u0111\u1ED3ng"
+    ID: 4
+    time1: 140
+    time2: 100
+    capmo: 10
+    giamua: 16
+    giaban: 20
+    exp: 6
+    sanluong: 3
+    gd1: {fileID: 21300000, guid: c0004150899858e4ea6714750e2e8b14, type: 3}
+    gd2: {fileID: 21300000, guid: e42448ec3d18d2e4f996338c42cb4d2f, type: 3}
+    gd3: {fileID: 21300000, guid: 266ce25c9d882754bae44fa4acfef6a0, type: 3}
+    iconsanpham: {fileID: 21300000, guid: 26ec30d72b247a54ba2760f95896a91b, type: 3}
+  - nameVNI: "C\xE0 t\xEDm"
+    nameENG: 
+    nguongoc: "Thu ho\u1EA1ch t\u1EEB c\xE1nh \u0111\u1ED3ng"
+    ID: 5
+    time1: 90
+    time2: 70
+    capmo: 6
+    giamua: 7
+    giaban: 12
+    exp: 3
+    sanluong: 3
+    gd1: {fileID: 21300000, guid: 2317039aa1f8c7d44994fec9bee81ef4, type: 3}
+    gd2: {fileID: 21300000, guid: f500637ed4a083944abdc637a53163be, type: 3}
+    gd3: {fileID: 21300000, guid: 0235142835c0c53428218b5a23fbb62e, type: 3}
+    iconsanpham: {fileID: 21300000, guid: 934c1d94e88ba9d4abe130a1b5965653, type: 3}
+  - nameVNI: "D\xE2u t\xE2y"
+    nameENG: 
+    nguongoc: "Thu ho\u1EA1ch t\u1EEB c\xE1nh \u0111\u1ED3ng"
+    ID: 6
+    time1: 50
+    time2: 60
+    capmo: 4
+    giamua: 24
+    giaban: 27
+    exp: 4
+    sanluong: 3
+    gd1: {fileID: 21300000, guid: 39e88314a21934843aa5ec2e08e4fb05, type: 3}
+    gd2: {fileID: 21300000, guid: a2b483954f4578e49956f50a10830f00, type: 3}
+    gd3: {fileID: 21300000, guid: 269a91cc3c43bba42941dc31b8efe06e, type: 3}
+    iconsanpham: {fileID: 21300000, guid: cb38ac32a8a977b4488cd9b0d466bd9d, type: 3}
+  - nameVNI: "\u0110\u1EADu t\u01B0\u01A1ng"
+    nameENG: 
+    nguongoc: "Thu ho\u1EA1ch t\u1EEB c\xE1nh \u0111\u1ED3ng"
+    ID: 7
+    time1: 300
+    time2: 200
+    capmo: 10
+    giamua: 34
+    giaban: 40
+    exp: 6
+    sanluong: 3
+    gd1: {fileID: 21300000, guid: 7d81d8f917cda9f47b1785361cd551ad, type: 3}
+    gd2: {fileID: 21300000, guid: d0fb5e8ab0884fe49bcbc205195dd1a9, type: 3}
+    gd3: {fileID: 21300000, guid: ee53a6546f0f11744b57f102d317bf30, type: 3}
+    iconsanpham: {fileID: 21300000, guid: a2357ec027a86844e8e2f7c3bf38af2c, type: 3}
+  - nameVNI: "D\u1EE9a"
+    nameENG: 
+    nguongoc: "Thu ho\u1EA1ch t\u1EEB c\xE1nh \u0111\u1ED3ng"
+    ID: 8
+    time1: 10
+    time2: 8
+    capmo: 9
+    giamua: 12
+    giaban: 15
+    exp: 5
+    sanluong: 3
+    gd1: {fileID: 21300000, guid: 51473ece70dec684fa2ca95010a84f53, type: 3}
+    gd2: {fileID: 21300000, guid: f185ac4c4091fee489aa266c90f4742e, type: 3}
+    gd3: {fileID: 21300000, guid: 27cc9f216ae756e4b85aec39495d4943, type: 3}
+    iconsanpham: {fileID: 21300000, guid: 1cdbb4846877a474dad4db59ed166516, type: 3}
+  - nameVNI: "D\u01B0a chu\u1ED9t"
+    nameENG: 
+    nguongoc: "Thu ho\u1EA1ch t\u1EEB c\xE1nh \u0111\u1ED3ng"
+    ID: 9
+    time1: 35
+    time2: 300
+    capmo: 5
+    giamua: 23
+    giaban: 30
+    exp: 6
+    sanluong: 3
+    gd1: {fileID: 21300000, guid: 89ebba237051cca4592ee44521f45678, type: 3}
+    gd2: {fileID: 21300000, guid: fabe402cac5e8f94cad8be87cf70312a, type: 3}
+    gd3: {fileID: 21300000, guid: 29dbdf907a676d74bac4fbd1bcb1c0ef, type: 3}
+    iconsanpham: {fileID: 21300000, guid: cf3d161afc760ed469e7bd6846918bb8, type: 3}
+  - nameVNI: "D\u01B0a h\u1EA5u"
+    nameENG: 
+    nguongoc: "Thu ho\u1EA1ch t\u1EEB c\xE1nh \u0111\u1ED3ng"
+    ID: 10
+    time1: 240
+    time2: 50
+    capmo: 9
+    giamua: 16
+    giaban: 20
+    exp: 4
+    sanluong: 3
+    gd1: {fileID: 21300000, guid: c5222935d38dee0468319dc6593c1886, type: 3}
+    gd2: {fileID: 21300000, guid: a36681d36fbbe5b4f8a276a6673a7f9b, type: 3}
+    gd3: {fileID: 21300000, guid: 416833963b5658549b2b6087372d80cf, type: 3}
+    iconsanpham: {fileID: 21300000, guid: f2cc4ec32082b2c4a99799033ac88c98, type: 3}
+  - nameVNI: Hoa lan
+    nameENG: 
+    nguongoc: "Thu ho\u1EA1ch t\u1EEB c\xE1nh \u0111\u1ED3ng"
+    ID: 11
+    time1: 80
+    time2: 250
+    capmo: 8
+    giamua: 15
+    giaban: 18
+    exp: 5
+    sanluong: 3
+    gd1: {fileID: 21300000, guid: d1751f512db857e478731faf70970794, type: 3}
+    gd2: {fileID: 21300000, guid: f2efd3c215a895649934b1eb697224fb, type: 3}
+    gd3: {fileID: 21300000, guid: 38b462db16ebb9f4eb318fb73e3dd409, type: 3}
+    iconsanpham: {fileID: 21300000, guid: 863b995669e287043bce658c219bbb6c, type: 3}
+  - nameVNI: "L\xFAa"
+    nameENG: 
+    nguongoc: "Thu ho\u1EA1ch t\u1EEB c\xE1nh \u0111\u1ED3ng"
+    ID: 12
+    time1: 95
+    time2: 235
+    capmo: 1
+    giamua: 7
+    giaban: 10
+    exp: 5
+    sanluong: 3
+    gd1: {fileID: 21300000, guid: 49d00e0446e54cd48aeda405cb0cd8c1, type: 3}
+    gd2: {fileID: 21300000, guid: fea8b300467518a4b809893f7c329190, type: 3}
+    gd3: {fileID: 21300000, guid: f5d7ef6a1e6d3114498b15a823688e7f, type: 3}
+    iconsanpham: {fileID: 21300000, guid: cc0e8c1a2129df542b0d7ef9983253bc, type: 3}
+  - nameVNI: "M\xEDa"
+    nameENG: 
+    nguongoc: "Thu ho\u1EA1ch t\u1EEB c\xE1nh \u0111\u1ED3ng"
+    ID: 13
+    time1: 132
+    time2: 187
+    capmo: 6
+    giamua: 23
+    giaban: 27
+    exp: 12
+    sanluong: 3
+    gd1: {fileID: 21300000, guid: fed6da5f697895548b1f4cf8a01dc035, type: 3}
+    gd2: {fileID: 21300000, guid: cf84461a446d1b1449eaca2f50bc2f57, type: 3}
+    gd3: {fileID: 21300000, guid: ca852830c234e1540b699f7a19730a8d, type: 3}
+    iconsanpham: {fileID: 21300000, guid: cd5c3f51723973144afdfb39638babd2, type: 3}
+  - nameVNI: "Ng\xF4"
+    nameENG: 
+    nguongoc: "Thu ho\u1EA1ch t\u1EEB c\xE1nh \u0111\u1ED3ng"
+    ID: 14
+    time1: 73
+    time2: 106
+    capmo: 2
+    giamua: 9
+    giaban: 15
+    exp: 4
+    sanluong: 3
+    gd1: {fileID: 21300000, guid: a96fe1204ba1bc2448fdfc3bc7dfb1a5, type: 3}
+    gd2: {fileID: 21300000, guid: 71d02e0870f791241bf397bff0885866, type: 3}
+    gd3: {fileID: 21300000, guid: 06f4b3f3718f56e4db3dad182068b043, type: 3}
+    iconsanpham: {fileID: 21300000, guid: d7df02dee442d9c45b6815b218f76f55, type: 3}
+  - nameVNI: Nho
+    nameENG: 
+    nguongoc: "Thu ho\u1EA1ch t\u1EEB c\xE1nh \u0111\u1ED3ng"
+    ID: 15
+    time1: 116
+    time2: 149
+    capmo: 7
+    giamua: 20
+    giaban: 23
+    exp: 6
+    sanluong: 3
+    gd1: {fileID: 21300000, guid: 7dd769d140a334d42b1815b3f2dd2c8c, type: 3}
+    gd2: {fileID: 21300000, guid: 2b84eb29cf72bb64caf42f1ed08e3611, type: 3}
+    gd3: {fileID: 21300000, guid: bc97bdb6deecf7442a326c3ba1a30e00, type: 3}
+    iconsanpham: {fileID: 21300000, guid: fd27b070d3d6a3a42afe1d62452cc285, type: 3}
+  - nameVNI: "\u1EDAt"
+    nameENG: 
+    nguongoc: "Thu ho\u1EA1ch t\u1EEB c\xE1nh \u0111\u1ED3ng"
+    ID: 16
+    time1: 123
+    time2: 163
+    capmo: 7
+    giamua: 30
+    giaban: 35
+    exp: 9
+    sanluong: 3
+    gd1: {fileID: 21300000, guid: a5f879f8a8d8bbb448a6b11e184b1c1f, type: 3}
+    gd2: {fileID: 21300000, guid: 0672a9f5756dae747a838a0b80b9e231, type: 3}
+    gd3: {fileID: 21300000, guid: 1eadec86c16364844b75f1dd95fd0085, type: 3}
+    iconsanpham: {fileID: 21300000, guid: ff624a1c09a020146aea8b1b395ae3aa, type: 3}
+  - nameVNI: "\u1EDAt ng\u1ECDt"
+    nameENG: 
+    nguongoc: "Thu ho\u1EA1ch t\u1EEB c\xE1nh \u0111\u1ED3ng"
+    ID: 17
+    time1: 83
+    time2: 121
+    capmo: 8
+    giamua: 18
+    giaban: 21
+    exp: 4
+    sanluong: 3
+    gd1: {fileID: 21300000, guid: 3217419b4b9b1a24cb49913e8a5baa1f, type: 3}
+    gd2: {fileID: 21300000, guid: b3d5109c68ede29499ab4cb011532813, type: 3}
+    gd3: {fileID: 21300000, guid: f67cbf34cccde254487a844dcd07bbc6, type: 3}
+    iconsanpham: {fileID: 21300000, guid: 03db1b89de73e5d4a807f728d54b6313, type: 3}
+  - nameVNI: "Anh \u0111\xE0o"
+    nameENG: 
+    nguongoc: "Thu ho\u1EA1ch t\u1EEB c\xE2y l\xE2u n\u0103m"
+    ID: 18
+    time1: 230
+    time2: 350
+    capmo: 11
+    giamua: 15
+    giaban: 20
+    exp: 4
+    sanluong: 3
+    gd1: {fileID: 21300000, guid: 5d385c9ae462457489b4b58964fb9266, type: 3}
+    gd2: {fileID: 21300000, guid: 45d0cabddf897fd478d91caab72087e3, type: 3}
+    gd3: {fileID: 21300000, guid: 5ecf565aded4b2146a76b3a885b95713, type: 3}
+    iconsanpham: {fileID: 21300000, guid: 01cfadaa1220a9e44a4be43d5d381387, type: 3}
+  - nameVNI: Cam
+    nameENG: 
+    nguongoc: "Thu ho\u1EA1ch t\u1EEB c\xE2y l\xE2u n\u0103m"
+    ID: 19
+    time1: 150
+    time2: 300
+    capmo: 3
+    giamua: 25
+    giaban: 30
+    exp: 6
+    sanluong: 3
+    gd1: {fileID: 21300000, guid: e252ae7ff7bdafd42b5a4a318c8669b8, type: 3}
+    gd2: {fileID: 21300000, guid: b23b287a897c5ba49aac139dee8c2c64, type: 3}
+    gd3: {fileID: 21300000, guid: 38bd7d2ad4aac8c45a550c3b0f792235, type: 3}
+    iconsanpham: {fileID: 21300000, guid: 699200004d324ac419fff0e5abfbde85, type: 3}
+  - nameVNI: "C\xE2y \u0110i\u1EC1u"
+    nameENG: 
+    nguongoc: "Thu ho\u1EA1ch t\u1EEB c\xE2y l\xE2u n\u0103m"
+    ID: 20
+    time1: 300
+    time2: 420
+    capmo: 12
+    giamua: 25
+    giaban: 40
+    exp: 9
+    sanluong: 3
+    gd1: {fileID: 21300000, guid: 7d8f96b362e286a4d9b53d9be8775dc8, type: 3}
+    gd2: {fileID: 21300000, guid: b36327ea922f5414ba0f05bcfa852583, type: 3}
+    gd3: {fileID: 21300000, guid: 14c9f0ea2fa193f43813ed77e7579ad1, type: 3}
+    iconsanpham: {fileID: 21300000, guid: 2c8190fb3d59f6641bd27b871294ffb9, type: 3}
+  - nameVNI: Chanh
+    nameENG: 
+    nguongoc: "Thu ho\u1EA1ch t\u1EEB c\xE2y l\xE2u n\u0103m"
+    ID: 21
+    time1: 200
+    time2: 250
+    capmo: 5
+    giamua: 15
+    giaban: 25
+    exp: 7
+    sanluong: 3
+    gd1: {fileID: 21300000, guid: f1862a01d006e304cba321add60e27f2, type: 3}
+    gd2: {fileID: 21300000, guid: fcb7141e9f00ddf4d8d17b8c8353a6a4, type: 3}
+    gd3: {fileID: 21300000, guid: 62a4f35a645c96f4aa8fec78d53f27a8, type: 3}
+    iconsanpham: {fileID: 21300000, guid: 833de53c92a690a479e2b1be43691e1e, type: 3}
+  - nameVNI: Cherry
+    nameENG: 
+    nguongoc: "Thu ho\u1EA1ch t\u1EEB c\xE2y l\xE2u n\u0103m"
+    ID: 22
+    time1: 10
+    time2: 20
+    capmo: 1
+    giamua: 24
+    giaban: 30
+    exp: 6
+    sanluong: 5
+    gd1: {fileID: 21300000, guid: bb1038fa0b9d7db45994ca9738bc60a5, type: 3}
+    gd2: {fileID: 21300000, guid: 925d30047963c6d49b5cb26dea7b8f2c, type: 3}
+    gd3: {fileID: 21300000, guid: eadb8631cabd7274bac5d10f3e386edd, type: 3}
+    iconsanpham: {fileID: 21300000, guid: d6edc3c4975359b49b62b5e2c0ffd116, type: 3}
+  - nameVNI: "L\u1EF1u"
+    nameENG: 
+    nguongoc: "Thu ho\u1EA1ch t\u1EEB c\xE2y l\xE2u n\u0103m"
+    ID: 23
+    time1: 170
+    time2: 250
+    capmo: 12
+    giamua: 30
+    giaban: 40
+    exp: 9
+    sanluong: 3
+    gd1: {fileID: 21300000, guid: 6529d7f21a1701a49ab0dfcae8af93b8, type: 3}
+    gd2: {fileID: 21300000, guid: 0a2deab61122dbd49a0c972e684ee4b1, type: 3}
+    gd3: {fileID: 21300000, guid: b0ac04dd303e0c54b8334587f7043639, type: 3}
+    iconsanpham: {fileID: 21300000, guid: d448f5d42a343824095a7c8f339cead5, type: 3}
+  - nameVNI: "\xD4 liu"
+    nameENG: 
+    nguongoc: "Thu ho\u1EA1ch t\u1EEB c\xE2y l\xE2u n\u0103m"
+    ID: 24
+    time1: 170
+    time2: 340
+    capmo: 12
+    giamua: 20
+    giaban: 30
+    exp: 6
+    sanluong: 3
+    gd1: {fileID: 21300000, guid: 60f6b8db5e36b6543b9fc9a4709fd820, type: 3}
+    gd2: {fileID: 21300000, guid: 7a426b081e88e744ab14d403cb45cce9, type: 3}
+    gd3: {fileID: 21300000, guid: df782c031ba973d409c64b72d7bf4d3a, type: 3}
+    iconsanpham: {fileID: 21300000, guid: 0c5c6f272b61e8a40adeed8418196392, type: 3}
+  - nameVNI: "T\xE1o"
+    nameENG: 
+    nguongoc: "Thu ho\u1EA1ch t\u1EEB c\xE2y l\xE2u n\u0103m"
+    ID: 25
+    time1: 350
+    time2: 470
+    capmo: 7
+    giamua: 26
+    giaban: 32
+    exp: 8
+    sanluong: 3
+    gd1: {fileID: 21300000, guid: 8529d74c602a0f04fad9a8a6702d357a, type: 3}
+    gd2: {fileID: 21300000, guid: 840a607c5265b9e40b86421884ea9cc3, type: 3}
+    gd3: {fileID: 21300000, guid: 3f1320e9b9cb0d6478f48d06192ea375, type: 3}
+    iconsanpham: {fileID: 21300000, guid: 5201306b56d03b64c9823a25c9c4a14a, type: 3}

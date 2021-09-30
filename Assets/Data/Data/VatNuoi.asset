@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5010dcf5972ace459bbe7002f6a0e9f, type: 3}
+  m_Name: VatNuoi
+  m_EditorClassIdentifier: 
+  data:
+  - nameVNI: ga
+    nameENG: chiken
+    time: 400
+    capmo: 1
+    giamua: 16
+    giaban: 20
+    exp: 3
+    sl_sanpham: 3
+    iconsanpham: {fileID: 21300000, guid: f0ab1ab917b1c6c4f96e8e1b20484d73, type: 3}
+    thuan: {fileID: 21300000, guid: bdf2753dbd4ec5948a54f02fc98b24b1, type: 3}
+    thuhoach: {fileID: 21300000, guid: 78e7122a2192f4641a4fe6bbf45119d6, type: 3}
+  - nameVNI: ngua
+    nameENG: 
+    time: 20
+    capmo: 17
+    giamua: 40
+    giaban: 45
+    exp: 5
+    sl_sanpham: 3
+    iconsanpham: {fileID: 21300000, guid: d16c56c94c1ca2943b44b6a8d2964445, type: 3}
+    thuan: {fileID: 21300000, guid: 46a41d997cdda7641874f6ea3904327a, type: 3}
+    thuhoach: {fileID: 21300000, guid: f226a8aae5c77454f9b0d741a05e5762, type: 3}
+  - nameVNI: lon
+    nameENG: 
+    time: 30
+    capmo: 7
+    giamua: 36
+    giaban: 40
+    exp: 6
+    sl_sanpham: 3
+    iconsanpham: {fileID: 21300000, guid: 85a1c2138c4e53f41a42ea49bd45d382, type: 3}
+    thuan: {fileID: 21300000, guid: 0c9cda26d463aa745958c8a823c2b419, type: 3}
+    thuhoach: {fileID: 21300000, guid: f226a8aae5c77454f9b0d741a05e5762, type: 3}
+  - nameVNI: bo
+    nameENG: 
+    time: 20
+    capmo: 5
+    giamua: 50
+    giaban: 55
+    exp: 4
+    sl_sanpham: 3
+    iconsanpham: {fileID: 21300000, guid: d886f9efb866c10408ca9ec89b400ceb, type: 3}
+    thuan: {fileID: 21300000, guid: c99744cadaf51e44289746bfb8c11964, type: 3}
+    thuhoach: {fileID: 21300000, guid: 5f142703b3d352842831be3bdae94166, type: 3}
+  - nameVNI: de
+    nameENG: 
+    time: 30
+    capmo: 15
+    giamua: 35
+    giaban: 42
+    exp: 7
+    sl_sanpham: 3
+    iconsanpham: {fileID: 21300000, guid: 4c7f928f8786da64885ec8d6a840bbf7, type: 3}
+    thuan: {fileID: 21300000, guid: 373a94e37198be849b064609f601a719, type: 3}
+    thuhoach: {fileID: 21300000, guid: 69bf9a939048e104993c8c557260b2fb, type: 3}
+  - nameVNI: cuu
+    nameENG: 
+    time: 40
+    capmo: 10
+    giamua: 29
+    giaban: 34
+    exp: 5
+    sl_sanpham: 3
+    iconsanpham: {fileID: 21300000, guid: 8a9c0d070895dfb4a973486829210df0, type: 3}
+    thuan: {fileID: 21300000, guid: b9a664aba5f2e614488a748f7a789e9d, type: 3}
+    thuhoach: {fileID: 21300000, guid: 6c5b963406e1cbc4cad187a9f9505470, type: 3}

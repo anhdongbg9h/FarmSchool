@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e00a15aa809b464f808a78c8bec2bf4, type: 3}
+  m_Name: DataShopXd
+  m_EditorClassIdentifier: 
+  data:
+  - name: "\xD4 \u0111\u1EA5t"
+    Gia: 20
+    sl: 3
+    GioiHan: 6
+    Capmo: 6
+  - name: "S\u1EA3n xu\u1EA5t th\u1EE9c \u0103n"
+    Gia: 20
+    sl: 1
+    GioiHan: 2
+    Capmo: 6
+  - name: "M\xE1y b\u1ED9t"
+    Gia: 20
+    sl: 0
+    GioiHan: 1
+    Capmo: 5
+  - name: "M\xE1y b\u01A1"
+    Gia: 25
+    sl: 0
+    GioiHan: 1
+    Capmo: 5
+  - name: "M\xE1y qu\u1EB7ng"
+    Gia: 34
+    sl: 0
+    GioiHan: 1
+    Capmo: 15
+  - name: "M\xE1y \u0111\u01B0\u1EDDng"
+    Gia: 13
+    sl: 0
+    GioiHan: 1
+    Capmo: 20
+  - name: "M\xE1y s\u1EEFa"
+    Gia: 34
+    sl: 0
+    GioiHan: 1
+    Capmo: 10
+  - name: "L\xF2 n\u01B0\u1EDBng"
+    Gia: 35
+    sl: 0
+    GioiHan: 1
+    Capmo: 7
+  - name: "L\xF2 pizza"
+    Gia: 56
+    sl: 0
+    GioiHan: 1
+    Capmo: 7
+  - name: "M\xE1y m\u1EADt ong"
+    Gia: 78
+    sl: 0
+    GioiHan: 1
+    Capmo: 7
+  - name: "M\xE1y \xE9p hoa qu\u1EA3"
+    Gia: 89
+    sl: 0
+    GioiHan: 1
+    Capmo: 10
+  - name: "M\xE1y R\u01B0\u1EE3u"
+    Gia: 123
+    sl: 0
+    GioiHan: 1
+    Capmo: 15

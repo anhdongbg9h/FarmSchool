@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2fb400a280f84740a5d8f124a594f89, type: 3}
+  m_Name: DataShopTrangTri
+  m_EditorClassIdentifier: 
+  data:
+  - name: "H\xF2m th\u01B0"
+    Gia: 30
+    sl: 0
+    GioiHan: 1
+    Capmo: 2
+  - name: "\u0110\xE8n th\u1EDD"
+    Gia: 30
+    sl: 0
+    GioiHan: 1
+    Capmo: 3
+  - name: "B\xF9 nh\xECn"
+    Gia: 30
+    sl: 0
+    GioiHan: 1
+    Capmo: 4
+  - name: "Hoa c\xFAc"
+    Gia: 30
+    sl: 0
+    GioiHan: 1
+    Capmo: 5
+  - name: "Hoa \u0111\u1ED3ng ti\xEAn"
+    Gia: 50
+    sl: 0
+    GioiHan: 1
+    Capmo: 7
+  - name: "Gh\u1EBF g\u1ED7"
+    Gia: 40
+    sl: 0
+    GioiHan: 1
+    Capmo: 8
+  - name: "Gh\u1EBF s\u1EAFt"
+    Gia: 0
+    sl: 0
+    GioiHan: 1
+    Capmo: 9
+  - name: "Gh\u1EBF s\u1EAFt v\u1ECBn"
+    Gia: 203
+    sl: 0
+    GioiHan: 1
+    Capmo: 10
+  - name: "M\xE8o th\u1EA7n t\xE0i tr\u1EAFng"
+    Gia: 92
+    sl: 0
+    GioiHan: 1
+    Capmo: 11
+  - name: "M\xE8o th\u1EA7n t\xE0i v\xE0ng"
+    Gia: 230
+    sl: 0
+    GioiHan: 1
+    Capmo: 12

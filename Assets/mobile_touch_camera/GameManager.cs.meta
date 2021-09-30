@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5a8d4ac30792c554482f081a84f35470
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dataNongSan: {fileID: 11400000, guid: a5e873595c52f104eaa1bbd4df3b6def, type: 2}
+  - dialogHG: {fileID: 2563888253935667341, guid: d6308e4a55c9a5249ba6cad42afff58f,
+      type: 3}
+  - thuhoach: {fileID: 6209166778933103062, guid: 17e17ddacd927604fa9653ea48991436,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
